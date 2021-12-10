@@ -156,6 +156,8 @@ def map_cols():
 
                                                     
 if __name__ == "__main__":
+    map_cols()
+    """
     demo = args.demo
     if demo == "radio":
         radio()
@@ -169,3 +171,4 @@ if __name__ == "__main__":
         map_and_select()
     elif demo == "map_cols":
         map_cols()
+    """
