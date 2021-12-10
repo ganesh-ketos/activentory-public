@@ -61,7 +61,7 @@ def map_cols():
     import pickle as pkl
     import os
     import matplotlib.pyplot as plt
-    import graphviz as graphviz
+    #import graphviz as graphviz
     st.set_page_config(layout='wide')
     from PIL import Image
     

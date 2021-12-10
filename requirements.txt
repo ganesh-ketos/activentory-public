@@ -5,3 +5,4 @@ IPython
 folium
 streamlit_folium
 matplotlib
+pillow
